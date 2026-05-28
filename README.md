@@ -5,7 +5,7 @@
 [![PHP](https://img.shields.io/badge/PHP_8.3_CLI-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net)
 
 
-> **Projet Universitaire d'Infrastructure et Scripting** — Réalisé par **Hugo Davy** (2026).
+Réalisé par Hugo Davy, Marcel Ekia Diwanga, Divi Le Gall, Fevzi Emre Gündüz (2026).
 
 ---
 
