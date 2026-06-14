@@ -14,6 +14,10 @@ Réalisé par Hugo Davy, Marcel Ekia Diwanga, Divi Le Gall, Fevzi Emre Gündüz 
 Concevoir et developper une chaine de traitement automatisee et industrialisee capable de nettoyer, standardiser et transformer des lots de fichiers bruts (images, donnees Excel et textes). L'enjeu principal etait de batir une solution robuste basee sur des conteneurs ephemeres, garantissant qu'aucun outil tiers (hors Docker et Bash local) ne soit requis sur la machine hote pour executer les traitements.
 
 ---
+## Accès au dossier de convertion principal
+
+Pour cela il vous faut télécharger le dossier nommé "convert" puis éxecuter via un terminal le script nommé "script_principal.sh"
+
 
 ## Architecture et Fonctionnement
 
