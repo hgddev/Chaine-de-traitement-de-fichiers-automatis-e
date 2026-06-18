@@ -28,7 +28,11 @@ convert/
 ├── data/
 │   ├── input/           # Fichiers sources recus (images, excel, textes)
 │   └── output/          # Fichiers finaux traites et rapports produits
-├── traitement_images.sh
-├── traitement_excel.sh
-├── traitement_textes.sh
-└── script_principal.sh  # Ordonnanceur general (seul script execute en local)
+|
+|___script_principal.sh  # Ordonnanceur general (seul script execute en local)
+|
+|
+|___scripts
+    ├── traitement_images.sh
+    ├── traitement_excel.sh
+    ├── traitement_textes.sh
